@@ -1,0 +1,31 @@
+#header
+{
+    background: gold;
+    width: 3000px;
+    height: 300px
+    float: top;
+}
+
+#left
+{
+    background: pink;
+    width: 600px;
+    height: 300px;
+    float: left; 
+}
+
+#right
+{
+    background: blue;
+    width: 600px;
+    height: 300px;
+    float: right;
+}
+
+#footer
+{
+    background: green;
+    width: 1400px;
+    height: 900px;
+    float: bottom;
+}
